@@ -1,0 +1,33 @@
+/*body{
+    background-color: yellow;
+};*/
+
+table, th, td {
+   border: 1px solid black;
+   align-content: center;
+   background-color: green;
+   margin-left: 225px;
+}
+
+h1{
+  text-align: center;
+}
+#buttonssss{
+  text-align: center;
+}
+#getTasks {
+  text-align: center;
+}
+#outputDiv{
+  text-align: center;
+}
+/*
+#deleteButtonId{
+  padding: 20px 20px 20px 20px;
+  background-color: green;
+}
+
+#completedButton{
+  padding: 20px 20px 20px 20px;
+  background-color: blue;
+}*/
